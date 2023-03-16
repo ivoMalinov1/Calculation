@@ -1,2 +1,2 @@
-# Sample
+# Sample_Repo 
 Playing with some variables - methods - classes - modules... 
