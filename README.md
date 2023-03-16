@@ -1,2 +1,2 @@
 # Sample
-Playing with some variables - classes - modules and packages  
+Playing with some variables - methods - classes - modules... 
